@@ -4,6 +4,8 @@
 
 Use '[react-native-responsive-percent](https://www.npmjs.com/package/react-native-responsive-number)' instead.
 
+---
+
 It helps you to make responsive view by adjusting size of the elements. You can use this package for all devices.
 
 ### Elements
